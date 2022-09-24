@@ -1,0 +1,32 @@
+html {
+    background-color: aliceblue;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#button {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 20px;
+    padding: 12px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#text {
+    width: 100%;
+
+}

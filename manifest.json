@@ -1,0 +1,14 @@
+{
+    "name": "IvT",
+    "version": "0.1.0",
+    "description": "Internet via Telegram - http proxy which work over Telegram bots",
+    "manifest_version": 3,
+    "author": "Big Kotik",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "IvT"
+    },
+    "permissions": [
+        "proxy"
+    ]
+}
